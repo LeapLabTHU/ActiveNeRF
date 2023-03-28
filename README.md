@@ -9,7 +9,7 @@ We present a novel learning framework, ActiveNeRF, aiming to model a 3D scene wi
 
 ## Visualizations
 
-![](video/vis.gif)
+<img src="video/vis.gif" width="50%">
 
 
 ## Installation
