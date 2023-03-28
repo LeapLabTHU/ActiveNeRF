@@ -9,7 +9,9 @@ We present a novel learning framework, ActiveNeRF, aiming to model a 3D scene wi
 
 ## Visualizations
 
-<video src="video/vis.mp4"/>
+```
+![](https://github.com/LeapLabTHU/ActiveNeRF/blob/main/video/vis.mp4)
+```
 
 
 ## Installation
